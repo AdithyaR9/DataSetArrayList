@@ -1,9 +1,11 @@
 # DataSetArrayList
 
 Created March 2019
-Uploaded July 2021 
+Uploaded July 30 2021 
 
 This is an ArrayList Program, that runs in the console that allows a user to manipulate a set of integer values. The program displays a menu with possible options to manipulate the list. 
+
+*I created this to try to put into practice the ArrayLists that I had just learned about. 
 
 Menu Options:
 - Add values – add values until 0 is entered
